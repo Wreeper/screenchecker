@@ -1,6 +1,6 @@
-var width = screen.width;
-var height = screen.height;
-var checkresult;
+const width = screen.width;
+const height = screen.height;
+let checkresult;
 
 if (height < width) {
 checkresult = "computer";
