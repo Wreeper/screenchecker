@@ -7,6 +7,6 @@ if (height < width) {
 checkresult = "computer";
 } else if (width < height) {
 checkresult = "mobile";
-} else if (width = height) {
+} else if (width == height) {
 checkresult = "ancient";
 }
